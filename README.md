@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyrone</h1>
-<h3 align="center">I am a Jr. Front-end developer, a curious and knowledge passionate front-end developer from Colombia. I am interested in new challenges and pursuing new goals. What makes you tick?
+<h3 align="center"> Curious and knowledge passionate self-taught front-end developer from Colombia. I am interested in new challenges and pursuing new goals. What makes you tick?
 </h3>
 
 - 🌱 I’m currently learning **React Native**
