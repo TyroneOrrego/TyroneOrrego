@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **steven.orrego93@gmail.com**
 
-- 📄 Know about my experiences [https://tyrone-portfolio-c96d68.netlify.app/](https://tyrone-portfolio-c96d68.netlify.app/)
+- 📄 Know more about my technical writing skills [https://tyrone-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
