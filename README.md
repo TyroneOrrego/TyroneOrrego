@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://tyrone-portfolio-c96d68.netlify.app/](https://tyroneorregoportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Technical Writing Portfolio](https://tyroneorregoportfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS3, ReactJS, NextJS, English Learning and so on.**
 
