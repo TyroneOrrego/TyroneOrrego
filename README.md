@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [Technical Writing Portfolio](https://tyroneorregoportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[Frontend Projects](https://tyrone-portfolio-c96d68.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS3, ReactJS, NextJS, English Learning and so on.**
 
 - 📫 How to reach me **steven.orrego93@gmail.com**
 
-- 📄 Know more about my technical writing skills [https://tyrone-portfolio.netlify.app/]
+- 📄 Know more about my technical writing skills [Technical Writing Portfolio](https://tyroneorregoportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
