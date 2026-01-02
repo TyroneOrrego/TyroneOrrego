@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **steven.orrego93@gmail.com**
 
-- 📄 Know more about my technical writing skills [Technical Writing Portfolio](https://tyroneorregoportfolio.vercel.app/)
+- 📄 Know more about my technical writing skills [Technical Writing Portfolio](https://portfolio-tyrone.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
